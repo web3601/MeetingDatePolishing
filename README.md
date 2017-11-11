@@ -8,7 +8,7 @@
 
 
 #### 效果图
-![](https://github.com/web3601/MeetingDatePolishing/blob/master/mp4/md1.gif)
+![](https://github.com/web3601/MeetingDatePolishing/blob/master/mp4/md2.gif)
 
 
 ### 思路
